@@ -1,0 +1,21 @@
+{
+    "name": "MCPForUnity.Editor.UITK",
+    "rootNamespace": "MCPForUnity.Editor.UITK",
+    "references": [
+        "MCPForUnity.Editor",
+        "MCPForUnity.Runtime"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "Newtonsoft.Json.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
